@@ -1,0 +1,64 @@
+6
+Acer Predator Gaming Laptop
+My Space
+ACERSWIFT01
+true
+250000
+11/11/2021
+https://www.amazon.in
+Light Weight, High Performance and Gaming
+images\acer.jpg
+Boroline
+Dressing Table
+BOROLINE02
+true
+15
+11/11/2021
+Medical Shop
+Antiseptic and Good for Skin
+images\boroline.jpg
+Nailcutter
+Dressing Table
+NAILCUTTER03
+true
+15
+12/04/2021
+General Store
+Difficult to Find
+images\nailcutter.jpg
+Pendent Light
+Drawing Room
+PENDENTLIGHT06
+true
+1500
+14/11/2021
+Electrical Shop
+Beautiful in Dark
+images\pendentLight.jpg
+Television
+Home_Appliance
+TH-40HS4500DX
+true
+32000
+20/10/2021
+http://www.flipkart.com
+Full HD LED Smart Android TV
+D:\INTERN\Financial_Applications_using_Java_Internship_Projects\Home_Inventory_Manager_Project\images\PanasonicTV.jpg
+Yellow Tshirt
+Wardrobe
+AELOMART03
+true
+450
+15/11/2021
+https://www.flipkart.com
+6-pack abs feel
+images\tshirt.jpg
+8
+Home_Appliance
+Kitchen
+Dressing Table
+Home Appliance
+Bed Room
+Drawing Room
+Wardrobe
+My Space
