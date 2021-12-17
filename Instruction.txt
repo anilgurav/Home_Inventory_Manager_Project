@@ -1,0 +1,8 @@
+HOW WILL YOU EXECUTE THE PROJECT?
+I have used Visual Studio Code for executing the project. Following are steps to execute the 
+project. 
+STEPS:
+1. Download the zip file of the project or clone it
+2. Unzip the downloaded file
+3. Open the folder with Visual Studio Code
+4. Run the JAVA project
